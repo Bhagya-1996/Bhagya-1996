@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhagya Liyanage</h1>
+<h1 align="center">Hey 👋, I'm Bhagya Liyanage</h1>
 <h3 align="center">I am a fresh graduate</h3>
 <img align= "right" alt = "coding" width="400" src = "https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif"/>
 
