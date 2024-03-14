@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently seeking an opportunity to utilize my skills and knowledge
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at **https://github.com//Bhagya-1996**
 
 - 💬 Ask me about HTML5,CSS
 
